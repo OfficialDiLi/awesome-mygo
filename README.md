@@ -32,6 +32,7 @@
 ## Components
 
 - [Onevra](https://github.com/oneo-me/onevra) Themed UI components by [ONEO](https://github.com/oneo-me)
+- [mygo-platinum](https://github.com/firede/mygo-platinum) late-1990s "Platinum" desktop themed UI components by [Zhao Lei](https://github.com/firede)
 
 ## Showcase
 
